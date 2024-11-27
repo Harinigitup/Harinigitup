@@ -1,21 +1,17 @@
 # Hi, I’m @Harinigitup
 
-- 👀 I’m interested in exploring new technologies, web development, and data science.
+- 👀 I’m interested in exploring new technologies, web development.
 - 🌱 I’m currently learning advanced Python programming and React.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: [harinib67@gmail.com](mailto:harinib67@gmail.com)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+- 😄 Pronouns: Techie Diva
+
 
 ## Contact Information
 - **Email:** [harinib67@gmail.com](mailto:harinib67@gmail.com)
-- **Phone:** +91-6369190744
 - **LinkedIn:** [linkedin.com/in/harinib67-tech-enthusiast](https://linkedin.com/in/harinib67-tech-enthusiast)
 - **GitHub:** [github.com/Harinigitup](https://github.com/Harinigitup)
 - **Coding Profile:** [harinibj6](https://harinibj6)
-
-## Bio
-I'm currently pursuing my Bachelor's degree in Computer Science Engineering from Mahendra Institutions. With a strong foundation in programming and a keen interest in web development and data science, I enjoy working on projects that solve real-world problems. When I'm not coding, you can find me reading tech blogs, exploring new cuisines, and enjoying a good book.
 
 ## I code in
 <p>
