@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced Python programming and React.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: [harinib67@gmail.com](mailto:harinib67@gmail.com)
-- 😄 Pronouns: Techie Diva
+
 
 
 ## Contact Information
