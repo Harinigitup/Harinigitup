@@ -11,7 +11,7 @@
 - **Email:** [harinib67@gmail.com](mailto:harinib67@gmail.com)
 - **LinkedIn:** [linkedin.com/in/harinib67-tech-enthusiast](https://linkedin.com/in/harinib67-tech-enthusiast)
 - **GitHub:** [github.com/Harinigitup](https://github.com/Harinigitup)
-- **Coding Profile:** [harinibj6](https://harinibj6)
+
 
 ## I code in
 <p>
